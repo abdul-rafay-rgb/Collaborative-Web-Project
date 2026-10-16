@@ -1,19 +1,16 @@
 # Collaborative Web Project — CSL 114
 
 ## Team
-- Group Leader: [Your Name] — GitHub: [username]
-- Teammate 1: [Member Name] — GitHub: [username]
-- Teammate 2: [Member Name] — GitHub: [username]
+- Group Leader: Abdul Rafay — GitHub: abdul-rafay-rgb
+- Teammate : Muhammad Shameer — GitHub: Shameer7869
 
 ## Folder structure
-- `groupleader/YourName.html`
-- `teammate1/YourName.html`
-- `teammate2/YourName.html`
+- `groupleader/AbdulRafayPortfolio.html`
+- `teammate/MuhammadShameer.html`
 
-Each member should edit only their assigned folder and replace the placeholder name, bio, skills, and team names.
 
 ## Collaboration workflow
-1. Group leader forks `https://github.com/AdnanAdj/Collaborative-Web-Project`.
+1. Group leader Abdul Rafay forks `https://github.com/AdnanAdj/Collaborative-Web-Project`.
 2. Clone the leader's fork with GitHub Desktop.
 3. Add teammate Muhammad Shameer under Settings → Collaborators.
 4. Teammate Muhammad Shameer edits their own profile HTML file.
