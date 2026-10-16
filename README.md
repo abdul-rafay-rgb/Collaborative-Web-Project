@@ -6,7 +6,7 @@
 
 ## Folder structure
 - `groupleader/AbdulRafayPortfolio.html`
-- `teammate/MuhammadShameer.html`
+- `teammate/MuhammadShameerPortfolio.html`
 
 
 ## Collaboration workflow
